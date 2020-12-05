@@ -1,3 +1,5 @@
-<h1>Hi!</h1>
-<p>npm i</p>
+<h2 style="text-align:center"Node.js Rest Api</h2>
+<hr>
+<h3>How Do I Use</h3>
+<p>npm install</p>
 <p>npm run dev</p>
