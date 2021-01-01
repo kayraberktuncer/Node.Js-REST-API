@@ -1,5 +1,11 @@
 <h2 style="text-align:center">Node.js Rest Api</h2>
 
-<h3>How Do I Use</h3>
-<p>npm install</p>
-<p>npm run dev</p>
+## Build Setup
+
+```bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+```
